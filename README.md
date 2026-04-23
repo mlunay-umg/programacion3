@@ -4,3 +4,4 @@ Marcos Luna Yela
 Carnet 0900-01-4636
 
 tareas, laboratorios y proyectos
+se actualizo el tkn
